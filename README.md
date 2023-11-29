@@ -1,4 +1,4 @@
 # Disable market price impact
 
-this mod for Victoria 3 disables the newly implemented Market price impact
+Mod for Victoria 3 that disables Market Access price impact (MAPI)
 
